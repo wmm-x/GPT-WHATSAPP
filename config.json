@@ -1,0 +1,18 @@
+{
+    "switch": "on",
+    "pref": "on",
+    "language": "en",
+    "api_key": "A9bX3cY7wL2mP6vQ4eR8tN1sZ5kH0uJ3dV2gF",
+    "login_info": {
+        "email": "amalperera12@gmail.com",
+        "password": "A63h&QmY6#1a",
+        "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc5M2Y3N2Q0N2ViOTBiZjRiYTA5YjBiNWFkYzk2ODRlZTg1NzJlZTYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbGluZ3VhZ3B0LWQxZDU4IiwiYXVkIjoibGluZ3VhZ3B0LWQxZDU4IiwiYXV0aF90aW1lIjoxNzE5NzY3ODEyLCJ1c2VyX2lkIjoiT1B2eFVGb0YyTFIxNUhodDIyT3NsR0kxU0ZmMiIsInN1YiI6Ik9QdnhVRm9GMkxSMTVIaHQyMk9zbEdJMVNGZjIiLCJpYXQiOjE3MTk3Njc4MTIsImV4cCI6MTcxOTc3MTQxMiwiZW1haWwiOiJhbWFscGVyZXJhMTJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImFtYWxwZXJlcmExMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.kNvIrCA4WV_dPEL-4a-i3N114s8ePPV6SKsqKkQxphWIsEXnlBi-H9iEWjly19vB0_D2B0MU0WcZ5vHJWSR1BENdsAvDJfs_KNZpnv4zAl4_lhGRbf9q9YhKZygq7G_gLqMobuYKdISZyOQP-l5ng0rsY0Ok6yrd1Qt73fRHVeiLFZNfMUCh_zcMIhxczd86fjaEt-YivklzTqzLWABKbrVPlk_WTOjb0NCie1houkDIDINAh8b8rSv5ifSFxaaGWjmem_1fGYZOxjJIFv8z-OFqx9C-vTKT10cugzTsfu0qERN-qAfV5Bh7EeK3RQaIJ4zZ5pQU1cbOMu73J19zKQ",
+        "localId": "OPvxUFoF2LR15Hht22OslGI1SFf2",
+        "refreshToken": "AMf-vBxY3OAPhcLQVpmAbFSdHpaXdMCPE1yGofVHnFy1u_SGlgxFKQbOBxqPrjmSBWD3ehgURCPkflQCygn7huFHc87_iI9Q2YjjLWJc_F0FW3w1Xb5x7KlXN2XQ8IdSrLoDTpo-yh3o2dTuINGAGTS3YXPhSW4yaM7C23EXJYGMPX18hwtbpH_XBt0WJ97Aq-DVijGGaIuvbg-L7m0Y62Mg-NB1m7gHpg",
+        "rawId": "amalperera12@gmail.com",
+        "lastLoginAt": 1719767812043,
+        "createdAt": 1719747137516,
+        "emailVerified": false,
+        "key": "f27df39bc5ed56e29c721f081e6110792b50b215d93eff3fbcbafc903bd8de2e"
+    }
+}
