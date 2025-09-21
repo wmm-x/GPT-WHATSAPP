@@ -10,13 +10,6 @@ GPT WHATSAPP BOT developed by <a href="https://github.com/wmm-x" target="_blank"
 </p>
 
 
-<p align="center">
-Big thanks ❤️ to <a href="https://github.com/DGXeon" target="_blank">DGXeon</a> for the huge contribution and for providing the base for this bot. Check out his amazing bot <a href="https://github.com/DGXeon/CheemsBot-MD6" target="_blank">CheemsBot-MD6</a>.
-</p>
-
-<p align="center">
-Special thanks for allowing me to use some of the base code from CheemsBot-MD6, which has been invaluable in developing this project.
-</p>
 
 
 
